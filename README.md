@@ -1,3 +1,13 @@
 # Multiplying
-Multiplying.py: Multiplying two digits from 1 to 9 to training or learing.
-The app shows two random digits, user enter a result of multiplying of these.
+
+Multiplying is an app, write in Python, to training or learing multiplying. 
+
+## Installation
+
+Clone or download repository on your computer.
+
+## Usage
+Linux terminal:
+```terminal
+$ python3 multiplying.py
+```
