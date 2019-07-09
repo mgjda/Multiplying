@@ -9,5 +9,5 @@ Clone or download repository on your computer.
 ## Usage
 Linux terminal:
 ```terminal
-$ python3 multiplying.py
+$ python3 Multiplying.py
 ```
