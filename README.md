@@ -6,6 +6,10 @@ Multiplying is an app, write in Python, to training or learing multiplying.
 
 Clone or download repository on your computer.
 
+```bash
+$ git clone https://github.com/mgjda/Multiplying.git
+```
+
 ## Usage
 Linux terminal:
 ```terminal
