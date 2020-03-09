@@ -1,6 +1,6 @@
 # Multiplying
 
-Multiplying is an app, write in Python, to training or learing multiplying. 
+Multiplying is an app, written in Python, to training or learing multiplying. 
 
 ## Installation
 
